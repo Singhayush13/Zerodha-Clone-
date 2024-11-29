@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-item{
+  margin-left: 40px;
+
+}
+
+.partner-logo {
+  max-width: 100px; /* Set uniform width */
+  max-height: 100px; /* Set uniform height */
+  object-fit: contain; /* Ensures proper scaling */
+  margin: 0 auto; /* Centers the image */
+}
+.row {
+  margin-bottom: 30px; /* Adds spacing between rows */
+}
